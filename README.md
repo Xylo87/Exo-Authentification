@@ -42,7 +42,7 @@ Le **Login** permet d'enregistrer les informations relatives à l'utilisateur en
 
 ---
 
-## 5. Auteur
+## 4. Auteur
 Ce projet a été réalisé par Théo Arbogast (aka Xylo87).  
 N'hésitez pas à ouvrir une issue ou à me contacter pour toute suggestion ou question.
 
